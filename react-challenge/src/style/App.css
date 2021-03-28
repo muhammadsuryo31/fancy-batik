@@ -1,0 +1,56 @@
+form {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  
+}
+
+.batik-search {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.form-control {
+  width: 400px;
+  margin:0px auto
+}
+
+.btn {
+  width: 150px;
+  margin:0px auto
+}
+
+/* for card */
+
+img {
+  height: 247px;
+  max-width: 400px;
+  max-height: 247px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.card {
+  width: 400px;
+  border-radius: 15px;
+}
+.card-col {
+  width: 450px;
+  display: flex;
+  justify-content: center;
+}
+.card-body {
+  text-align: center;
+}
+.actions {
+  display: flex;
+  justify-content: space-between;
+}
